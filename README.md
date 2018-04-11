@@ -7,9 +7,9 @@ this is an android app to make users share wallpapers
 	   thats allow users to go inside the app 
 ### 3- main activity : 
 	   it have a style like instagram app styly ,it is a list of items every item contains : 
-		    1- the photo to the user eho share the wall paper 
-				2- the wallpaper itself 
-				3 - like button 
+		     1- the photo to the user eho share the wall paper 
+		     2- the wallpaper itself 
+		     3 - like button 
 ### 4- serach activity :
 	   thats allow users to search about another users to follow 
 		 it will be contains 2 features :
